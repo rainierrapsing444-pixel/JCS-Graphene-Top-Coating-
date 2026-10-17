@@ -1,0 +1,8 @@
+{
+  "name": "Remix JCS Car Solution - 3D Interactive Car Care Experience",
+  "description": "Interactive 3D business showcase and product demonstration for JCS-AVIOR CarCare Trading / JCS Car Solution by John Christopher Soler, featuring 3D product visualizer, mall kiosk booth simulator, waterless hydrophobic coating demo, and complete business proposal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
